@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+
+.star__box{
+    margin-top: 30px;
+}
+
+.star__box span i{
+    padding: 50px;
+    font-size: 30px;
+}
+
+.active{
+    color: #f53816;
+}
+
+#btn{
+    font-size: 30px;
+    cursor: pointer;
+    color: #ffffff;
+    background-color: #000;
+    border-radius: 30px;
+    padding: 10px;
+    border: none;
+}
+
+input{
+    font-size: 30px;
+    padding: 10px;
+}
